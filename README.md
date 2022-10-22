@@ -11,3 +11,8 @@ It is also a good companion to reading the Style Guide.
 - npm install
 - npm run build
 - npm run serve
+
+Angular JS migration guide
+Angular js migration
+https://www.youtube.com/watch?v=qeQljCLpR04&list=PL-TLnxxt_AVE9dec6IU-0DSx6Oy5hsTCu
+https://codecraft.tv/courses/angularjs-migration/overview/introduction/
