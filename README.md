@@ -8,6 +8,6 @@ It is also a good companion to reading the Style Guide.
 
 ## Install
 
-npm install
-npm run build
-npm run serve
+- npm install
+- npm run build
+- npm run serve
